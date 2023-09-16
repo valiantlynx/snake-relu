@@ -1,0 +1,10 @@
+.dist 
+.vscode
+.venv
+chatbotmodel.h5
+/bin
+/lib
+/include
+/share
+pyvenv.cfg
+
