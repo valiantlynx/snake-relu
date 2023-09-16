@@ -1,10 +1,11 @@
 .dist 
 .vscode
-.venv
+/.venv
 chatbotmodel.h5
 /bin
 /lib
 /include
 /share
 pyvenv.cfg
+/__pycache__
 

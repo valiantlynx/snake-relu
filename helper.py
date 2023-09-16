@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import iPython as display
+from IPython import display
 
 plt.ion()
 
