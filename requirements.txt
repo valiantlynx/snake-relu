@@ -1,5 +1,5 @@
-pygame
 torch
-torchvision
+numpy
+pygame
 matplotlib
-ipython
+IPython

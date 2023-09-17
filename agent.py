@@ -11,7 +11,6 @@ BATCH_SIZE = 1000
 LEARNING_RATE = 0.001
 
 class Agent:
-    
     def __init__(self) -> None:
         self.no_of_games = 0
         self.epsilon = 0 # randomness
